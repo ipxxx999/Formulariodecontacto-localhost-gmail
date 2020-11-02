@@ -1,5 +1,5 @@
-# Formulariodecontacto-localhost-gmail
-Formulario de contacto en localhost gmail
+# Formulario de contacto localhost gmail
+Formulario de contacto en localhost para gmail
 
 Puede tener un formulario web en localhost para enviar correos electrónicos con su cuenta de Gmail.
 Por Favor lee las instrucciones en la carpeta de ayuda.
