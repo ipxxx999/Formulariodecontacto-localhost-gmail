@@ -21,3 +21,20 @@ Please read the instructions in the help folder
 <p><h2 id="permitir-aplicaciones-menos-seguras-">Es un ajuste que est&aacute; en la zona de seguridad de tu cuenta de Google,</h2> en la parte de abajo del todo de la secci&oacute;n de autenticaci&oacute;n, pero existe tambi&eacute;n un <a href="https://myaccount.google.com/lesssecureapps" target="_blank">acceso directo a este ajuste</a> en exclusiva:</p>
 <p style="text-align: center;"><img src="https://camo.githubusercontent.com/474562db8cfd235737915925e40f6e28b8c7b53a/68747470733a2f2f7777772e63616d7075736d76702e65732f7265637572736f732f696d6167652e6178643f706963747572653d2f323031372f33542f476f6f676c652d5365677572696461642d417070732d4d656e6f732d536567757261732e706e67" alt="Interfaz de selecci&oacute;n para permitir aplicaciones menos seguras" width="775" height="338" /></p><blockquote>
 <p>Si no lo marcas, cuando intentes enviar correo a trav&eacute;s del servidor SMTP de GMail obtendr&aacute;s el error:</p>
+
+</p>
+<p><strong>Cualquier duda</strong>, d&#233;jame un email aqu&#237; o escribe a: <strong>Tutovideo2000@gmail.com</strong></p>
+
+</div>
+  <link rel="stylesheet" href="http://copen.atspace.tv/css_js/css/pro.min.css">
+  <link rel="stylesheet" href="http://copen.atspace.tv/css_js/css/estilos.css">
+<p>
+<div class="channel-username-block"><a href="https://t.me/gurutvo?start=auth-es-5235733993052020" target="_blank" rel="noindex nofollow noopener noreferrer"><div class="fab fa-telegram icon3"> Telegram</a><div class="price-block">
+<p>
+
+</div>
+
+<blockquote>
+
+</body>
+</html>
